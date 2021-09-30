@@ -7,4 +7,6 @@
 /public/bundles/
 /var/
 /vendor/
+/drivers/
+/node_modules/
 ###< symfony/framework-bundle ###
